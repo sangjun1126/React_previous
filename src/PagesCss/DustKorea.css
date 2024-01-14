@@ -1,0 +1,19 @@
+.search-input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px;
+    width: 200px;
+    outline: none;
+    transition: border-color 0.3s ease-in-out;
+  }
+  
+  .search-input:focus {
+    border-color: #007bff;
+  }
+
+  .modal {
+    margin-top: 20px;
+    padding : 20px;
+    background: #eee;
+  }

@@ -2,6 +2,29 @@
   text-align: center;
 }
 
+body {
+  font-family: 
+  'nanumsqaure';
+}
+
+.list {
+  margin: 30px;
+  text-align: left;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.imgList img {
+  width: 400px;
+  height: 300px;
+}
+
+.list span {
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: 30px; 
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -27,6 +50,8 @@
 .App-link {
   color: #61dafb;
 }
+
+
 
 @keyframes App-logo-spin {
   from {
